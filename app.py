@@ -23,10 +23,10 @@ AI Specialist, assisting enterprises by solving problem using modern technologie
 """
 EMAIL = "glennimmanuel8@gmail.com"
 SOCIAL_MEDIA = {
-    "Projects & Activities": "https://www.linkedin.com/in/glenn-immanuel-401b34276/",
     "LinkedIn": "https://www.linkedin.com/in/glenn-immanuel-401b34276/",
     "YouTube": "https://www.youtube.com/channel/UCXIP7ADUyHjicUVRAxc0Jcw",
     "GitHub": "https://github.com/Glennimmanuell",
+    "Projects & Activities": "https://www.linkedin.com/in/glenn-immanuel-401b34276/",
 }
 PROJECTS = {
     "🏆 Robot Light Follower - Robot that can follow the light": "https://www.youtube.com/watch?v=cgXTUwV5Y2k",
