@@ -161,7 +161,7 @@ with cols2:
         """
     - ► Building an interesting event in a competition with the aim of ensuring that participants can enjoy the event.
     - ► Analyzed, documented, and reported participants survey results to improve the events. And we get 85% positive feedbacks.
-    - ► Scheduling the competition and developing role books for participants.
+    - ► Scheduling the competition and developing rules books for participants.
     - ► Led the Materials Division to created a software training for participants.
     """
     )
