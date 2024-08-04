@@ -82,7 +82,7 @@ st.write('\n')
 st.subheader("Experiences")
 st.write(
     """
-- ✅​ 2 Years experience in AI technology design
+- ✅​ Experience in AI technology design
 - ✅​ Strong hands on experience and knowledge in Python and Computer Vision
 - ✅​ Good understanding of Electrical Design and Programming Logic Controller (PLC)
 - ✅​ Excellent team-player and displaying strong sense of initiative on tasks
