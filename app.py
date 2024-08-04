@@ -30,8 +30,8 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🏆 Robot Light Follower - Robot that can follow the light": "https://www.youtube.com/watch?v=cgXTUwV5Y2k",
-    "🏆 IoT Light Switch - Microcontroller that can control light switch through the internet": "https://www.youtube.com/watch?v=2k8PQAvXwSs&t=7s",
-    "🏆 Finalist Noble UNESA - Developing SenseSight that can help blind people": "https://www.linkedin.com/in/glenn-immanuel-401b34276/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAENxdEEBFopt_ClbddtXduHBAjytZkG0MbA",
+    "🏆 IoT Light Switch - Microcontroller that able to control a light switch through the internet": "https://www.youtube.com/watch?v=2k8PQAvXwSs&t=7s",
+    "🏆 Finalist Noble UNESA - Developing SenseSight that can help blind people, particularly for Object Detection": "https://www.linkedin.com/in/glenn-immanuel-401b34276/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAENxdEEBFopt_ClbddtXduHBAjytZkG0MbA",
     "🏆 AR for Medical Field - Developing AR for medical purpose": "https://www.linkedin.com/in/glenn-immanuel-401b34276/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAENxdEEBFopt_ClbddtXduHBAjytZkG0MbA",
     "🏆 Chip Design - Create a simple basic processor using FPGA": "https://drive.google.com/drive/folders/1hzUBLrN1e880BIsoxmL4Rc-fcrIs00oC",
     "🏆 ToDo List Mobile App - Mobile Application for todo list": "https://github.com/Glennimmanuell/ToDo",
@@ -98,7 +98,7 @@ st.write(
     """
 - 💻 Programming: Python, C, C++, Java, Kotlin, C#, CSS, JavaScript
 - ⚛️ Frameworks & Libraries: Tensorflow, PyTorch, Scikit-learn, keras, LangChain, openAI
-- ⚡ Electrical Design Tools: ETAP, PLC Programming Software(TIA Portal, Machine Expert Basic), PCB Design(EasyEDA), ArduinoIDE
+- ⚡ Electrical Design Tools: ETAP, PLC Software(TIA Portal, Machine Expert Basic), PCB Design(EasyEDA), ArduinoIDE
 - 📟 Microcontrollers & Edge Devices: STM32, Arduino, Esp32, Raspberry Pi, Orange Pi, FPGA(Pynq Z2)
 - 🧊 3D Design Tools: AutoCAD, Fushion360, Blender
 """
