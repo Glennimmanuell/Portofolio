@@ -23,10 +23,10 @@ AI Specialist, assisting enterprises by solving problem using modern technologie
 """
 EMAIL = "glennimmanuel8@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://www.youtube.com/channel/UCXIP7ADUyHjicUVRAxc0Jcw",
-    "LinkedIn": "https://www.linkedin.com/in/glenn-immanuel-401b34276/",
-    "GitHub": "https://github.com/Glennimmanuell",
     "Projects & Activities": "https://www.linkedin.com/in/glenn-immanuel-401b34276/",
+    "LinkedIn": "https://www.linkedin.com/in/glenn-immanuel-401b34276/",
+    "YouTube": "https://www.youtube.com/channel/UCXIP7ADUyHjicUVRAxc0Jcw",
+    "GitHub": "https://github.com/Glennimmanuell",
 }
 PROJECTS = {
     "🏆 Robot Light Follower - Robot that can follow the light": "https://www.youtube.com/watch?v=cgXTUwV5Y2k",
@@ -79,7 +79,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Experiences")
 st.write(
     """
 - ✅​ 2 Years experience in AI technology design
@@ -107,7 +107,7 @@ st.write(
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Work History")
+st.subheader("Work Experiences")
 st.write("---")
 
 # --- JOB 1
@@ -169,7 +169,7 @@ with cols2:
 
 # --- Projects & Accomplishments ---
 st.write('\n')
-st.subheader("Projects & Accomplishments")
+st.subheader("Projects")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
