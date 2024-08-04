@@ -62,12 +62,12 @@ with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
     st.download_button(
-        label=" 📄 Download Resume",
+        label=" 📑​ Download Resume",
         data=PDFbyte,
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-    st.write("📫", EMAIL)
+    st.write("📩​", EMAIL)
 
 
 # --- SOCIAL LINKS ---
@@ -82,11 +82,11 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 2 Years experience in AI technology design
-- ✔️ Strong hands on experience and knowledge in Python and Computer Vision
-- ✔️ Good understanding of Electrical Design and Programming Logic Controller (PLC)
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
-- ✔️ Great understanding in AR/VR Development
+- ✅​ 2 Years experience in AI technology design
+- ✅​ Strong hands on experience and knowledge in Python and Computer Vision
+- ✅​ Good understanding of Electrical Design and Programming Logic Controller (PLC)
+- ✅​ Excellent team-player and displaying strong sense of initiative on tasks
+- ✅​ Great understanding in AR/VR Development
 """
 )
 
